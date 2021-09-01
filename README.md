@@ -1,0 +1,2 @@
+Read me for Odin project "google homepage"
+In this excersise I showed basic knowledge of starting a repository and connecting it to my Vm. Also used the terminal command line to create new files for the project and how to save those files.
